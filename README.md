@@ -19,6 +19,7 @@ A curated list of awesome [Maker](https://en.wikipedia.org/wiki/Maker_culture) R
 - [硬禾学堂](https://class.eetree.cn/) - Chinese electronics and embedded systems learning platform
 - [达尔闻说](https://www.darwinlearns.com/) - Chinese electronics learning platform with tutorials and courses
 - [freeCodeCamp](https://www.freecodecamp.org/) - Free online coding bootcamp with thousands of programming tutorials
+- [SolidCraft CAD](https://solidcraftcad.com/) - Guide to SolidCraft, the open-source parametric 3D CAD app in Rust (browser, desktop, MCP)
 
 ## Buying & Selling
 
